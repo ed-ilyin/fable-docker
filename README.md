@@ -1,0 +1,2 @@
+# fable-docker
+dotnet + node
